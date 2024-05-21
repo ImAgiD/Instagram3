@@ -1,6 +1,7 @@
 venv
 .env
 products_img/
+poetry.lock
 
 # Byte-compiled / optimized / DLL files
 pycache/
